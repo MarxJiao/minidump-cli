@@ -1,0 +1,26 @@
+{
+  "name": "minidump-cli",
+  "version": "1.0.0",
+  "description": "Command line tools for https://github.com/electron/node-minidump",
+  "main": "index.js",
+  "bin": {
+    "minidump-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarxJiao/minidump-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarxJiao/minidump-cli/issues"
+  },
+  "homepage": "https://github.com/MarxJiao/minidump-cli#readme",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
